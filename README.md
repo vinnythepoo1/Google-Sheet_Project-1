@@ -26,3 +26,5 @@ This dashboard helps understand customer behavior so businesses can improve mark
 - Combined all charts into a single, interactive dashboard for easy interpretation.
 
 ## Dashboard
+
+<img width="1133" height="645" alt="Dashboard" src="https://github.com/user-attachments/assets/f64a01af-8255-4a52-8661-f2de275725a0" />
