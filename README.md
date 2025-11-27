@@ -28,3 +28,11 @@ This dashboard helps understand customer behavior so businesses can improve mark
 ## Dashboard
 
 <img width="1133" height="645" alt="Dashboard" src="https://github.com/user-attachments/assets/f64a01af-8255-4a52-8661-f2de275725a0" />
+
+## Project Insights
+- Middle-aged customers (30–50 years) are the strongest bike purchasers.
+- Customers with shorter commute distances (0–5 miles) tend to buy more bikes.
+- Customers who own fewer cars are more likely to purchase a bike
+- North America and Europe show strong variation in occupation-based customer segments.
+- Households with 1–2 children show the highest likelihood of purchasing a bike.
+- Gender differences in income and commute patterns also influence purchase behavior.
