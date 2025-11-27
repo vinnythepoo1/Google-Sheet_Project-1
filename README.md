@@ -1,2 +1,28 @@
-# Google-Sheet_Project-1
-This is my first Google Sheets data analysis project, where I built a dashboard using pivot tables to explore what factors influence customer bike purchases.
+# Bike Sell analysis-1
+## Project Objective
+The goal of this project is to analyze customer data from a bike sales dataset and identify the key factors that influence bike purchase decisions.
+This dashboard helps understand customer behavior so businesses can improve marketing, target the right customers, and increase future sales.
+
+## Dataset used
+- <a href=https://github.com/vinnythepoo1/Google-Sheet_Project-1/blob/main/Raw%20dataset.xlsx>Bike Sell Data </a>
+- <a href=https://github.com/vinnythepoo1/Google-Sheet_Project-1/blob/main/Bike%20Seller%20analysis.xlsx>Analysis Data </a>
+
+## Questions (KPIs)
+- This dashboard answers the following business questions:
+- How does customer income affect bike purchase decisions?
+- Does commute distance influence the likelihood of buying a bike?
+- Which age groups purchase the most bikes?
+- How does car ownership impact bike purchases?
+- What is the occupation mix across different regions?
+- Do customers with more children buy more or fewer bikes?
+
+- Dashboard Interaction <a herf= https://github.com/vinnythepoo1/Google-Sheet_Project-1/blob/main/Dashboard.png> View Dashboard </a>
+
+## Process
+- Verified data for missing values and formatting issues.
+- Cleaned and standardized the dataset for analysis.
+- Created multiple pivot tables to evaluate each KPI.
+- Designed a visual dashboard using pivot charts in Google Sheets.
+- Combined all charts into a single, interactive dashboard for easy interpretation.
+
+## Dashboard
