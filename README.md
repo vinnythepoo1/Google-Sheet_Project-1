@@ -4,8 +4,8 @@ The goal of this project is to analyze customer data from a bike sales dataset a
 This dashboard helps understand customer behavior so businesses can improve marketing, target the right customers, and increase future sales.
 
 ## Dataset used
-- <a href=https://github.com/vinnythepoo1/Google-Sheet_Project-1/blob/main/Raw%20dataset.xlsx>Bike Sell Data </a>
-- <a href=https://github.com/vinnythepoo1/Google-Sheet_Project-1/blob/main/Bike%20Seller%20analysis.xlsx>Analysis Data </a>
+- <a href=https://github.com/vinnythepoo1/Google-Sheet_Project-1/blob/main/Raw_dataset.xlsx>Bike Sell Data </a>
+- <a href=https://github.com/vinnythepoo1/Google-Sheet_Project-1/blob/main/Bike_Seller_analysis.xlsx>Analysis Data </a>
 
 ## Questions (KPIs)
 - This dashboard answers the following business questions:
